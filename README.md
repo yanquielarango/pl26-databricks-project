@@ -8,7 +8,7 @@ Storage account `styanquieldbracademy` with **Hierarchical Namespace enabled** (
 
 ![Resource group after Storage Account creation](images/resource-group-after-storage.png)
 
-Resource group view right after the Storage Account was created — `styanquieldbracademy` now appears alongside the pre-existing shared resources.
+Resource group view right after  Storage Account creation — `styanquieldbracademy` now appears alongside the pre-existing shared resources.
 
 ## Key Vault
 
@@ -18,7 +18,7 @@ Key Vault `kvyanquieldbracademy` on the **Standard** tier, with **soft-delete en
 
 ![Resource group after Key Vault creation](images/resource-group-after-keyvault.png)
 
-Resource group view after the Key Vault was created — `kvyanquieldbracademy` is now listed together with the Storage Account.
+Resource group view after Key Vault creation — `kvyanquieldbracademy` is now listed together with the Storage Account.
 
 ## Databricks Workspace
 
@@ -28,4 +28,4 @@ Databricks workspace `dbrw_yanquiel` on the **Premium** tier, with **No Public I
 
 ![Resource group after Databricks Workspace creation](images/resource-group-after-databricks.png)
 
-Resource group view after the Databricks Workspace was created — `dbrw_yanquiel` completes the set of three resources created for this exercise.
+Resource group view after Databricks Workspace creation — `dbrw_yanquiel` completes the set of three resources created for this exercise.
