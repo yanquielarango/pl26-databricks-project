@@ -28,4 +28,4 @@ Databricks workspace `dbrw_yanquiel` on the Premium tier, with No Public IP enab
 
 ![Resource group after Databricks Workspace creation](images/resource-group-after-databricks.png)
 
-Resource group view after Databricks Workspace creation — `dbrw_yanquiel` completes the set of three resources created for this exercise.
+Resource group view after Databricks Workspace creation  `dbrw_yanquiel` completes the set of three resources created for this exercise.
