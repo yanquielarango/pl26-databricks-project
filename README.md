@@ -8,7 +8,7 @@ Storage account `styanquieldbracademy` with Hierarchical Namespace enabled (requ
 
 ![Resource group after Storage Account creation](images/resource-group-after-storage.png)
 
-Resource group view right after  Storage Account creation — `styanquieldbracademy` now appears alongside the pre-existing shared resources.
+Resource group view right after  Storage Account creation  `styanquieldbracademy` now appears alongside the pre-existing shared resources.
 
 ## Key Vault
 
