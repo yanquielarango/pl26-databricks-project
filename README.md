@@ -18,7 +18,7 @@ Key Vault `kvyanquieldbracademy` on the Standard tier, with soft-delete enabled 
 
 ![Resource group after Key Vault creation](images/resource-group-after-keyvault.png)
 
-Resource group view after Key Vault creation — `kvyanquieldbracademy` is now listed together with the Storage Account.
+Resource group view after Key Vault creation  `kvyanquieldbracademy` is now listed together with the Storage Account.
 
 ## Databricks Workspace
 
