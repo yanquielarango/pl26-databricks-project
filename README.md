@@ -4,7 +4,7 @@
 
 ![Storage Account](images/storage-account.png)
 
-Storage account `styanquieldbracademy` with **Hierarchical Namespace enabled** (required for ADLS Gen2), **LRS** redundancy, **Hot** access tier, and public network access enabled.
+Storage account `styanquieldbracademy` with Hierarchical Namespace enabled (required for ADLS Gen2), LRS redundancy, Hot access tier, and public network access enabled.
 
 ![Resource group after Storage Account creation](images/resource-group-after-storage.png)
 
@@ -14,7 +14,7 @@ Resource group view right after  Storage Account creation — `styanquieldbracad
 
 ![Key Vault](images/key-vault.png)
 
-Key Vault `kvyanquieldbracademy` on the **Standard** tier, with **soft-delete enabled** and **purge protection disabled**.
+Key Vault `kvyanquieldbracademy` on the Standard tier, with soft-delete enabled and purge protection disabled.
 
 ![Resource group after Key Vault creation](images/resource-group-after-keyvault.png)
 
@@ -24,7 +24,7 @@ Resource group view after Key Vault creation — `kvyanquieldbracademy` is now l
 
 ![Databricks Workspace](images/databricks-workspace.png)
 
-Databricks workspace `dbrw_yanquiel` on the **Premium** tier, with **No Public IP enabled** and an auto-generated **managed resource group** (`dbrw_yanquiel_softserve_academy`) for its internal resources.
+Databricks workspace `dbrw_yanquiel` on the Premium tier, with No Public IP enabled and an auto-generated managed resource group (`dbrw_yanquiel_softserve_academy`) for its internal resources.
 
 ![Resource group after Databricks Workspace creation](images/resource-group-after-databricks.png)
 
